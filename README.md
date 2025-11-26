@@ -5,7 +5,7 @@ Ces scripts permettent d'améliorer l'expérience utilisateur, d'automatiser cer
 ## 🚀 Installation
 
 Pour utiliser un script, il suffit de l'importer dans votre `common.js` sur Vikidia :
-;Exemple
+- Exemple
 
 ```js
 importScript('Utilisateur:Bahati11/ScriptName.js')
